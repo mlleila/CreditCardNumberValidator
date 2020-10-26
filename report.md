@@ -5,9 +5,9 @@
 
 На тестирование затрачено: 1 час.
 
-В результате тестирования выявлены следующие дефекты:
-* [При вводе валидного номера карты, выводится результат FAIL #1](https://github.com/mlleila/CreditCardNumberValidator/issues/1#issue-729586391)
-* [При вводе валидного номера карты, выводится результат FAIL #2](https://github.com/mlleila/CreditCardNumberValidator/issues/2#issue-729588168)
+В результате тестирования выявлен следующий дефект:
+* [При вводе валидного номера карты, выводится результат FAIL #1](https://github.com/mlleila/CreditCardNumberValidator/issues/1)
+
 
 ## Описание процесса тестирования
 
